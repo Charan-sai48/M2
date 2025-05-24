@@ -33,6 +33,7 @@ int main()
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/5cebcafc-0c86-4dfc-ba5a-d0eac5373a60)
 
 
 
@@ -83,6 +84,7 @@ int main()
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/4aad9159-4a75-48e2-b476-f63e2fd72ebb)
 
 
 
@@ -132,6 +134,7 @@ int main()
 ```
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/c45c927e-e3b0-4655-860c-c9562bfc293f)
 
 
 
@@ -184,6 +187,7 @@ int main()
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/190087df-692f-4f44-87db-aee69d52507e)
 
 
 
@@ -237,6 +241,7 @@ long long fact() {
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/8f85ee6c-b046-49b7-9298-31de55aa62d8)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
